@@ -1,4 +1,4 @@
-# Pub/Sub: Qwik Start - Console || [GSP096](https://www.cloudskillsboost.google/focuses/3719?parent=catalog) ||
+# Analyze BigQuery data in Connected Sheets: Challenge Lab || [GSP103](https://www.cloudskillsboost.google/games/5440/labs/35264) ||
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
