@@ -1,4 +1,4 @@
-# Analyze BigQuery data in Connected Sheets: Challenge Lab || [GSP103](https://www.cloudskillsboost.google/games/5440/labs/35264) ||
+# Analyze BigQuery data in Connected Sheets: Challenge Lab || [ARC103](https://www.cloudskillsboost.google/games/5440/labs/35264) ||
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
